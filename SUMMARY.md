@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [루나 서버 안내](README.md)
